@@ -1,7 +1,4 @@
 <!-- Banner o imagen personalizada -->
-<p align="center">
-  <img src="https://i.imgur.com/Zy6x2Ml.gif" alt="banner" width="80%"/>
-</p>
 
 <h1 align="center">👋 ¡Hola, soy Luz Arleth López Bautista! 🚀</h1>
 <h3 align="center">💻 Desarrolladora | Apasionada por la tecnología y el aprendizaje continuo</h3>
